@@ -1,0 +1,9 @@
+So, the other day I was debugging weird TLS certificates problem with our infrastructure.
+
+I finally find the problem and I learned that Java has stricter TLS requirements.
+
+So here is a tool to use for quickly testing a http(s) connection to a specified host.
+
+I only did the minimal features and I will wait to have real life needs before implementing it.
+
+Enjoy!
